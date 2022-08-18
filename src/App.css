@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(41deg,#ab1dfd 24%,#351dfd 50%,#6345fc 77%);
+  overflow: hidden;
+}
+.App {
+  text-align: center;
+}
